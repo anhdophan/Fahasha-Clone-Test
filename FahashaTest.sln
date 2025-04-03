@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FahashaTest", "FahashaTest\FahashaTest.csproj", "{45566171-1FDC-45C3-8F9B-906BCD7F21DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45566171-1FDC-45C3-8F9B-906BCD7F21DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45566171-1FDC-45C3-8F9B-906BCD7F21DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45566171-1FDC-45C3-8F9B-906BCD7F21DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45566171-1FDC-45C3-8F9B-906BCD7F21DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C96E070-1295-48C8-95BA-DCCA2C002277}
+	EndGlobalSection
+EndGlobal
